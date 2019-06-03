@@ -28,4 +28,6 @@
     <string name="btn_sign_out">Desconectar</string>
     <string name="lbl_forgot_password">Se te olvido tu contraseña?</string>
     <string name="forgot_password_msg">Solo necesitanis su ID de correo electronico registrado para enviarle las instrucciones para restablercer su contraseña.</string>
+    <string name="appbar_scrolling_view_bahavior" />
+    <string name="prompt_password" />
 </resources>
